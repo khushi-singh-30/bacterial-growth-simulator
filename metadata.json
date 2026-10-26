@@ -1,0 +1,6 @@
+{
+  "name": "Bacterial Growth Simulator: Exploring the Four Phases of the Bacterial Growth Curve",
+  "description": "Interactive virtual microbiology laboratory simulator demonstrating the four phases of the bacterial growth curve in closed batch culture for BTY323 Microbiology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
